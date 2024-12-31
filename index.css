@@ -1,0 +1,40 @@
+.youtube-icon {
+  	position: absolute;
+  	top: calc(50% + 253.5px);
+  	left: calc(50% - 154px);
+  	width: 80px;
+  	height: 77px;
+  	overflow: hidden;
+  	cursor: pointer;
+}
+.instagram-icon {
+  	position: absolute;
+  	top: calc(50% + 266.5px);
+  	left: calc(50% + 99px);
+  	width: 55px;
+  	height: 52.7px;
+}
+.whatsapp-icon {
+  	position: absolute;
+  	top: calc(50% + 259.5px);
+  	left: calc(50% - 18px);
+  	width: 60px;
+  	height: 60px;
+  	cursor: pointer;
+}
+.mainpage-1-icon {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 412px;
+  	height: 917px;
+  	object-fit: cover;
+}
+.mainpage {
+  	width: 100%;
+  	position: relative;
+  	background-color: #17183f;
+  	height: 917px;
+  	overflow: hidden;
+}
+
